@@ -1,0 +1,93 @@
+/* jQuery Architector Slider v1.0 */
+
+.architector-slider {
+	padding:0;
+	margin:0;
+	position:relative;
+	overflow:hidden;
+	z-index:100;
+}
+
+.architector-slider ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+	position:relative;
+	overflow:hidden;
+}
+
+.architector-slider li {
+	width:100%;
+	display:block;
+	position:absolute;
+}
+
+.architector-slider ul li img {
+	position:relative;
+	z-index:1;
+}
+
+.architector-slider .active {z-index:10;}
+
+.architector-slider .reset {z-index:3;}
+
+.slide-description {display:none;}
+
+.architector-slider .slide-description {
+	padding:18px 20px 20px;
+	overflow:hidden;
+	position:absolute;
+	z-index:105;
+	opacity:0;
+	filter:alpha(opacity=0);
+}
+
+.architector-slider .slide-description p {padding:0 0 12px;}
+
+.architector-slider .architector-number-nav {
+	text-align:center;
+	overflow:hidden;
+	position:relative;
+	z-index:102;
+}
+
+.architector-slider .architector-number-nav a {
+	border:0;
+	display:inline-block;
+	padding:10px 5px 0 0;
+	position:relative;
+	overflow:hidden;
+}
+
+.architector-slider .architector-number-nav a:last-child {padding:10px 0 0;}
+
+.architector-slider .architector-number-nav a span {
+	background:#010101;
+	display:block;
+	position:absolute;
+	top:11px;
+	left:1px;
+	opacity:.7;
+	filter:alpha(opacity=70);
+}
+
+.architector-slider .architector-number-nav a:hover span, .architector-slider .architector-number-nav a.active span {
+	opacity:0;
+	filter:alpha(opacity=0);
+}
+
+.architector-slider .slide-thumbnail {display:none;}
+
+.architector-time-line {
+	height:5px;
+	width:0;
+	position:absolute;
+	left:-2px;
+	z-index:104;
+	background:rgba(0, 0, 0, .5);
+	-pie-background:rgba(0, 0, 0, .5);
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	behavior:url(css/styles/pie.htc);
+}
