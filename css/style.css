@@ -2,7 +2,7 @@
 {
     color:#ef4232 !important;
 }
-.burgerPlan
+.foreground
 {
     z-index: 10;
 }
@@ -46,6 +46,19 @@ a:hover
 {
     color: inherit;
 }
+
+
+.image
+{
+    background-image: url("../images/assets/excavator-modif.jpg");
+    background-size: cover;
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+
 
 @media (min-width: 992px) {
 
