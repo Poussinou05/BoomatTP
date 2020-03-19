@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8ef56c2-fcd3-4b7f-8ecd-bf632460bf93" name="Default Changelist" comment="" />
+    <list default="true" id="e8ef56c2-fcd3-4b7f-8ecd-bf632460bf93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/960.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/jquery.clockstone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nivo-slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/prettyPhoto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/product9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/service1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/service2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/slideshow1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/slideshow4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/assets/slideshow5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.4.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.nivo.slider.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.poptrox-1.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/loading.gif" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +62,43 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-854">
+              <caret line="357" column="47" selection-start-line="357" selection-start-column="47" selection-end-line="357" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>brand</find>
+      <find>space</find>
+      <find>color</find>
+      <find>color-logo</find>
+      <find>size-logo</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +106,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/nosdomaines.html" />
       </list>
     </option>
   </component>
@@ -52,15 +124,33 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Boumat-TP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boumat-TP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -93,16 +183,33 @@
       <workItem from="1571862237330" duration="285000" />
       <workItem from="1572435631629" duration="67000" />
       <workItem from="1580727324174" duration="4507000" />
+      <workItem from="1580738940518" duration="325000" />
+      <workItem from="1580838166435" duration="269000" />
+      <workItem from="1580924813102" duration="199000" />
+      <workItem from="1580975308514" duration="458000" />
+      <workItem from="1581016078187" duration="354000" />
+      <workItem from="1581055979762" duration="296000" />
+      <workItem from="1581074707865" duration="144000" />
+      <workItem from="1581324099113" duration="473000" />
+      <workItem from="1581406747793" duration="71000" />
+      <workItem from="1581419773385" duration="461000" />
+      <workItem from="1581441208229" duration="165000" />
+      <workItem from="1583932319208" duration="398000" />
+      <workItem from="1583932857688" duration="5466000" />
+      <workItem from="1584034060005" duration="1168000" />
+      <workItem from="1584102787520" duration="20325000" />
+      <workItem from="1584539519414" duration="8509000" />
+      <workItem from="1584605678864" duration="3200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9978000" />
+    <option name="totallyTimeSpent" value="52259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27103302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12673056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -115,7 +222,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.46635944" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.53364056" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -127,28 +234,69 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/default/default.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/default.css" />
     <entry file="file://$PROJECT_DIR$/images/dot_hr.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/gradient.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/assets/slideshow5.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/slideshow4.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/slideshow1.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/about.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/assets/product.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/product1.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/product2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/product3.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/product4.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/product5.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/product6.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/product7.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/product8.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/product9.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/service1.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/service2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/assets/slide1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/assets/slide2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/assets/slideshow2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/assets/slideshow3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/assets/logo-blanc.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+        <state relative-caret-position="750">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nosdomaines.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="101" column="59" selection-start-line="101" selection-start-column="59" selection-end-line="101" selection-end-column="59" />
+        <state relative-caret-position="-854">
+          <caret line="357" column="47" selection-start-line="357" selection-start-column="47" selection-end-line="357" selection-end-column="47" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/gradient.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
