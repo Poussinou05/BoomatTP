@@ -2,6 +2,10 @@
 {
     color:#ef4232 !important;
 }
+.burgerPlan
+{
+    z-index: 10;
+}
 
 .hidden
 {
@@ -33,9 +37,19 @@
     background: #ef4232;
 }
 
+.color-text
+{
+    color: black;
+}
+
+a:hover
+{
+    color: inherit;
+}
+
 @media (min-width: 992px) {
 
-    .show{
+    .visible{
         display: none;
     }
     .hidden{

@@ -56,7 +56,7 @@
 
 <!--NAVBAR CENTREE -->
 
-		<nav class="navbar navbar-expand-lg navbar-light bg-white height-navbar">
+		<nav class="navbar navbar-expand-lg navbar-light bg-white height-navbar burgerPlan">
 			<div class="navbar-collapse collapse w-100 dual-collapse2 order-1 order-md-0 mr-5">
 				<ul class="navbar-nav ml-auto text-center">
 					<li class="nav-item active">
@@ -68,7 +68,7 @@
 							Nos Domaines
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-							<a class="dropdown-item" href="#">Terrassement</a>
+							<a class="dropdown-item" href="terrassement.html">Terrassement</a>
 							<a class="dropdown-item" href="#">Voirie - Réseau</a>
 							<a class="dropdown-item" href="#">Maçonnerie</a>
 							<a class="dropdown-item" href="#">Accès privés</a>
@@ -85,7 +85,7 @@
 			<div class="mx-auto my-2 order-0 order-md-1 position-relative">
 				<!--Phone-->
 				<a class="mx-auto" href="#">
-					<img src="images/logo.png" alt="Logo BoumatTP" class=" size-logo show">
+					<img src="images/logo.png" alt="Logo BoumatTP" class=" size-logo visible">
 				</a>
 				<!--Desktop-->
 				<a class="mx-auto" href="#">
@@ -139,7 +139,7 @@
 
 <!-- PRESENTATION -->
 		<!-- Phone -->
-		<div class="jumbotron jumbotron-fluid show">
+		<div class="jumbotron jumbotron-fluid visible">
 			<div class="container">
 				<p class="lead text-size">Fondée en 2011 BOUMAT TP est une entreprise familiale indépendante à taille humaine.
 					Notre réputation s’est construite sur des valeurs fortes tels que : le respect de nos délais,
@@ -180,12 +180,12 @@
 							<h5 class="card-title">Terrassement</h5>
 							<p class="card-text">Nous effectuons tout type de terrassement, du plus gros au plus petit. blabla blabla blabla blabla truffe bouh
 							</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="terrassement.html">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>
 				<!-- Phone -->
-				<div class="col-md-6 show">
+				<div class="col-md-6 visible">
 					<div class="card">
 						<img src="images/assets/voirie.jpg" class="card-img-top" alt="goudron">
 						<div class="card-body">
@@ -232,7 +232,7 @@
 					</div>
 				</div>
 				<!-- Phone -->
-				<div class="col-md-6 col-lg-4 show">
+				<div class="col-md-6 col-lg-4 visible">
 					<div class="card">
 						<img src="images/assets/piscine.jpg" class="card-img-top" alt="piscine">
 						<div class="card-body">
@@ -279,7 +279,7 @@
 					</div>
 				</div>
 				<!-- Phone -->
-				<div class="col-md-6 col-lg-4 show">
+				<div class="col-md-6 col-lg-4 visible">
 					<div class="card">
 						<img src="images/assets/fosse-sceptique.jpg" class="card-img-top" alt="fosse-sceptique">
 						<div class="card-body">
@@ -365,6 +365,43 @@
 		<p class="text-center">N'hésitez plus et faites nous confiances pour vos travaux.<span class="font-weight-bold"><a class="color-logo" href="#"> Contactez-nous</a></span></p>
 
 <!--FOOTER-->
+		<!--Phone-->
+		<div class="container-fluid background visible mt-4">
+			<div class="row">
+				<a class="mx-auto size-logo" href="#">
+					<img src="images/assets/logo-blanc.png" alt="Logo BoumatTP" class="size-logo">
+				</a>
+				<div class="col-6 col-md-3">
+					<h3>Nos Domaines</h3>
+					<p><a href="terrassement.html">Terrassement</a><br>
+						Voiries-Réseau<br>
+						Maçonnerie<br>
+						Accès privé<br>
+						Revêtement divers<br>
+						Espaces Verts<br>
+						Piscines<br>
+						Puits<br>
+						Fosses sceptiques<br>
+					</p>
+				</div>
+				<div class="col-6 col-md-3">
+					<h3>Navigation</h3>
+					<p><a href="index.html">Accueil</a><br>
+						Nos Domaines<br>
+						Références<br>
+						Contact</p>
+					<!--				</div>-->
+					<!--				<div class="col-6 col-md-3">-->
+					<h3>Contact</h3>
+					<p>SARL BOUMAT TP<br>
+						25 rue d'Alger<br>
+						81600 Gaillac
+					</p>
+					<p>06 78 34 54 83</p>
+				</div>
+			</div>
+		</div>
+		<!--desktop-->
 		<div class="container-fluid background hidden mt-4 py-4">
 			<div class="row">
 				<div class="col-md-3">
@@ -374,14 +411,14 @@
 				</div>
 				<div class="col-md-3">
 					<h3>Navigation</h3>
-					<p>Accueil</p>
+					<p><a href="index.html" class="color-text">Accueil</a></p>
 					<p>Nos Domaines</p>
 					<p>Références</p>
 					<p>Contact</p>
 				</div>
 				<div class="col-md-3">
 					<h3>Nos Domaines</h3>
-					<p>Terrassement <br>
+					<p><a href="terrassement.html" class="color-text">Terrassement</a><br>
 						Voiries-Réseau<br>
 						Maçonnerie<br>
 						Accès privé<br>
@@ -403,41 +440,7 @@
 			</div>
 
 		</div>
-		<div class="container-fluid background show mt-4">
-			<div class="row">
-					<a class="mx-auto size-logo" href="#">
-						<img src="images/assets/logo-blanc.png" alt="Logo BoumatTP" class="size-logo">
-					</a>
-				<div class="col-6 col-md-3">
-					<h3>Nos Domaines</h3>
-					<p>Terrassement <br>
-						Voiries-Réseau<br>
-						Maçonnerie<br>
-						Accès privé<br>
-						Revêtement divers<br>
-						Espaces Verts<br>
-						Piscines<br>
-						Puits<br>
-						Fosses sceptiques<br>
-					</p>
-				</div>
-				<div class="col-6 col-md-3">
-					<h3>Navigation</h3>
-					<p>Accueil<br>
-					Nos Domaines<br>
-					Références<br>
-					Contact</p>
-<!--				</div>-->
-<!--				<div class="col-6 col-md-3">-->
-					<h3>Contact</h3>
-					<p>SARL BOUMAT TP<br>
-					25 rue d'Alger<br>
-						81600 Gaillac
-					</p>
-					<p>06 78 34 54 83</p>
-				</div>
-			</div>
-		</div>
+
 <!--FOOTER-->
 
 
