@@ -48,7 +48,7 @@ a:hover
 }
 
 
-.image
+.top-image
 {
     background-image: url("../images/assets/excavator-modif.jpg");
     background-size: cover;
@@ -56,6 +56,14 @@ a:hover
     display: flex;
     justify-content: center;
     align-items: flex-end;
+}
+
+.domain-slideshow
+{
+    background-color: #ef4232;
+    border: 1px solid #ef4232;
+    /*border-radius: .25rem;*/
+    width: 100%;
 }
 
 
@@ -76,5 +84,10 @@ a:hover
     .size-logo
     {
         max-width: 95%;
+    }
+
+    .text-size
+    {
+        font-size: 1.25rem!important;
     }
 }
