@@ -1,114 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>BOUMAT TP Entreprise de Travaux Publics</title>
-
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<meta name="description" content="Entreprise de Travaux Publics, Terrassement, Voirie Réseaux, Maçonnerie, Accès privés, Revêtements divers (béton désactivé, enrobé, résine) Espaces verts, Piscines " />
-		<meta name="author" content="laurianeChauvet" />
-		<meta name="robots" content="index,follow" />
-		<meta name="keywords" content="Travaux Publics, Terrassement, Voirie Réseaux, Maçonnerie, Accès, Revêtement, béton désactivé, enrobé, résine, Espace vert, Piscine, puits, fosse septique, assainissement  " />
-
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-		<link rel="stylesheet" href="css/style.css">
-	</head>
-
-	<body>
-<!--		<nav class="navbar navbar-expand-lg navbar-light bg-white">-->
-<!--			&lt;!&ndash;insérer ci-dessous le logo, balise img &ndash;&gt;-->
-<!--			<a class="navbar-brand" href="#">-->
-<!--				<img src="images/logo.png" alt="Logo BoumatTP">-->
-<!--			</a>-->
-<!--			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">-->
-<!--				<span class="navbar-toggler-icon"></span>-->
-<!--			</button>-->
-<!--			<div class="collapse navbar-collapse" id="navbarNavDropdown">-->
-<!--				<ul class="navbar-nav ml-auto">-->
-<!--					<li class="nav-item active">-->
-<!--						<a class="nav-link" href="#">Accueil <span class="sr-only">(current)</span></a>-->
-<!--					</li>-->
-<!--					<li class="nav-item dropdown">-->
-<!--						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">-->
-<!--							Nos Domaines-->
-<!--						</a>-->
-<!--						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">-->
-<!--							<a class="dropdown-item" href="#">Terrassement</a>-->
-<!--							<a class="dropdown-item" href="#">Voirie - Réseau</a>-->
-<!--							<a class="dropdown-item" href="#">Maçonnerie</a>-->
-<!--							<a class="dropdown-item" href="#">Accès privés</a>-->
-<!--							<a class="dropdown-item" href="#">Revêtements divers</a>-->
-<!--							<a class="dropdown-item" href="#">Espaces verts</a>-->
-<!--							<a class="dropdown-item" href="#">Piscines</a>-->
-<!--							<a class="dropdown-item" href="#">Puits</a>-->
-<!--							<a class="dropdown-item" href="#">Fosses sceptiques</a>-->
-<!--							<a class="dropdown-item" href="#">Assainissements</a>-->
-<!--						</div>-->
-<!--					</li>-->
-<!--					<li class="nav-item">-->
-<!--						<a class="nav-link" href="#">Références</a>-->
-<!--					</li>-->
-<!--					<li class="nav-item">-->
-<!--						<a class="nav-link" href="#">Contact</a>-->
-<!--					</li>-->
-<!--				</ul>-->
-<!--			</div>-->
-<!--		</nav>-->
-
-<!--NAVBAR CENTREE -->
-
-		<nav class="navbar navbar-expand-lg navbar-light bg-white height-navbar foreground">
-			<div class="navbar-collapse collapse w-100 dual-collapse2 order-1 order-md-0 mr-5">
-				<ul class="navbar-nav ml-auto text-center">
-					<li class="nav-item active">
-						<a class="nav-link" href="#">Accueil</a>
-					</li>
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-						   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							Nos Domaines
-						</a>
-						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-							<a class="dropdown-item" href="terrassement.html">Terrassement</a>
-							<a class="dropdown-item" href="#">Voirie - Réseau</a>
-							<a class="dropdown-item" href="#">Maçonnerie</a>
-							<a class="dropdown-item" href="#">Accès privés</a>
-							<a class="dropdown-item" href="#">Revêtements divers</a>
-							<a class="dropdown-item" href="#">Espaces verts</a>
-							<a class="dropdown-item" href="#">Piscines</a>
-							<a class="dropdown-item" href="#">Puits</a>
-							<a class="dropdown-item" href="#">Fosses sceptiques</a>
-							<a class="dropdown-item" href="#">Assainissements</a>
-						</div>
-					</li>
-				</ul>
-			</div>
-			<div class="mx-auto my-2 order-0 order-md-1 position-relative">
-				<!--Phone-->
-				<a class="mx-auto" href="#">
-					<img src="images/logo.png" alt="Logo BoumatTP" class=" size-logo visible">
-				</a>
-				<!--Desktop-->
-				<a class="mx-auto" href="#">
-					<img src="images/logo.png" alt="Logo BoumatTP" class="hidden">
-				</a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
-					<span class="navbar-toggler-icon"></span>
-				</button>
-			</div>
-			<div class="navbar-collapse collapse w-100 dual-collapse2 order-2 order-md-2 ml-5">
-				<ul class="navbar-nav mr-auto text-center">
-					<li class="nav-item">
-						<a class="nav-link" href="#">Références</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Contact</a>
-					</li>
-				</ul>
-			</div>
-		</nav>
 
 
-<!-- FIN NAVBAR CENTREE -->
+<?php include ('header.inc.php')?>
 
 <!-- CAROUSSEL -->
 
@@ -166,7 +58,7 @@
 							<h5 class="card-title">Terrassement</h5>
 							<p class="card-text">Nous effectuons tout type de terrassement, du plus gros au plus petit. blabla blabla blabla blabla truffe bouh
 							</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="terrassement.html">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="terrassement.php">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>
@@ -350,84 +242,6 @@
 
 		<p class="text-center">N'hésitez plus et faites nous confiances pour vos travaux.<span class="font-weight-bold"><a class="color-logo" href="#"> Contactez-nous</a></span></p>
 
-<!--FOOTER-->
-		<!--Phone-->
-		<div class="container-fluid background visible mt-4">
-			<div class="row">
-				<a class="mx-auto size-logo" href="#">
-					<img src="images/assets/logo-blanc.png" alt="Logo BoumatTP" class="size-logo">
-				</a>
-				<div class="col-6 col-md-3">
-					<h3>Nos Domaines</h3>
-					<p><a href="terrassement.html" class="color-text">Terrassement</a><br>
-						Voiries-Réseau<br>
-						Maçonnerie<br>
-						Accès privé<br>
-						Revêtement divers<br>
-						Espaces Verts<br>
-						Piscines<br>
-						Puits<br>
-						Fosses sceptiques<br>
-					</p>
-				</div>
-				<div class="col-6 col-md-3">
-					<h3>Navigation</h3>
-					<p><a href="index.html" class="color-text">Accueil</a><br>
-						Nos Domaines<br>
-						Références<br>
-						Contact</p>
-					<!--				</div>-->
-					<!--				<div class="col-6 col-md-3">-->
-					<h3>Contact</h3>
-					<p>SARL BOUMAT TP<br>
-						25 rue d'Alger<br>
-						81600 Gaillac
-					</p>
-					<p>06 78 34 54 83</p>
-				</div>
-			</div>
-		</div>
-		<!--desktop-->
-		<div class="container-fluid background hidden mt-4 py-4">
-			<div class="row">
-				<div class="col-md-3">
-					<a class="mx-auto" href="#">
-						<img src="images/assets/logo-blanc.png" alt="Logo BoumatTP" class="size-logo">
-					</a>
-				</div>
-				<div class="col-md-3">
-					<h3>Navigation</h3>
-					<p><a href="index.html" class="color-text">Accueil</a></p>
-					<p>Nos Domaines</p>
-					<p>Références</p>
-					<p>Contact</p>
-				</div>
-				<div class="col-md-3">
-					<h3>Nos Domaines</h3>
-					<p><a href="terrassement.html" class="color-text">Terrassement</a><br>
-						Voiries-Réseau<br>
-						Maçonnerie<br>
-						Accès privé<br>
-						Revêtement divers<br>
-						Espaces Verts<br>
-						Piscines<br>
-						Puits<br>
-						Fosses sceptiques<br>
-					</p>
-				</div>
-				<div class="col-md-3">
-					<h3>Contact</h3>
-					<p>SARL BOUMAT TP<br>
-					25 rue d'Alger<br>
-						81600 Gaillac
-					</p>
-					<p>06 78 34 54 83</p>
-				</div>
-			</div>
-
-		</div>
-
-<!--FOOTER-->
 
 
 
@@ -461,8 +275,4 @@
 <!-- FIN CONTACT -->
 
 
-		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-	</body>
-</html>
+<?php include ('footer.inc.php')?>
