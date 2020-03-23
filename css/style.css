@@ -2,6 +2,10 @@
 {
     color:#ef4232 !important;
 }
+.foreground
+{
+    z-index: 10;
+}
 
 .hidden
 {
@@ -33,9 +37,40 @@
     background: #ef4232;
 }
 
+.color-text
+{
+    color: black;
+}
+
+a:hover
+{
+    color: inherit;
+}
+
+
+.top-image
+{
+    background-image: url("../images/assets/excavator-modif.jpg");
+    background-size: cover;
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.domain-slideshow
+{
+    background-color: #ef4232;
+    border: 1px solid #ef4232;
+    /*border-radius: .25rem;*/
+    width: 100%;
+}
+
+
+
 @media (min-width: 992px) {
 
-    .show{
+    .visible{
         display: none;
     }
     .hidden{
@@ -49,5 +84,10 @@
     .size-logo
     {
         max-width: 95%;
+    }
+
+    .text-size
+    {
+        font-size: 1.25rem!important;
     }
 }
