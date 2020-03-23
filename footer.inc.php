@@ -19,19 +19,21 @@
                     </p>
                 </div>
                 <div class="col-6 col-md-3">
-                    <h3>Navigation</h3>
-                    <p><a href="index.php" class="color-text">Accueil</a><br>
-                        Nos Domaines<br>
-                        Références<br>
-                        Contact</p>
-                    <!--				</div>-->
-                    <!--				<div class="col-6 col-md-3">-->
-                    <h3>Contact</h3>
-                    <p>SARL BOUMAT TP<br>
+                    <div>
+                        <h3>Navigation</h3>
+                        <p><a href="index.php" class="color-text">Accueil</a><br>
+                            Nos Domaines<br>
+                            Références<br>
+                            Contact</p>
+                    </div>
+                    <div>
+                        <h3>Contact</h3>
+                        <p>SARL BOUMAT TP<br>
                         25 rue d'Alger<br>
                         81600 Gaillac
-                    </p>
-                    <p>06 78 34 54 83</p>
+                        </p>
+                        <p>06 78 34 54 83</p>
+                    </div>
                 </div>
             </div>
         </div>

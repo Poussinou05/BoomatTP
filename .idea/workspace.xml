@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8ef56c2-fcd3-4b7f-8ecd-bf632460bf93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/footer.inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.inc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terrassement.html" beforeDir="false" afterPath="$PROJECT_DIR$/terrassement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.inc.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +32,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="948">
+            <state relative-caret-position="369">
               <caret line="277" selection-start-line="277" selection-end-line="277" selection-end-column="34" />
             </state>
           </provider>
@@ -47,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/terrassement.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="948">
+            <state relative-caret-position="1710">
               <caret line="114" column="34" selection-start-line="114" selection-start-column="34" selection-end-line="114" selection-end-column="34" />
             </state>
           </provider>
@@ -62,13 +59,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/footer.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+            <state relative-caret-position="300">
+              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
               <folding>
-                <element signature="n#div#0;n#!!top" />
                 <element signature="n#div#1;n#!!top" />
               </folding>
             </state>
@@ -105,9 +101,9 @@
         <option value="$PROJECT_DIR$/nosdomaines.html" />
         <option value="$PROJECT_DIR$/terrassement.html" />
         <option value="$PROJECT_DIR$/header.inc.php" />
-        <option value="$PROJECT_DIR$/footer.inc.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/terrassement.php" />
+        <option value="$PROJECT_DIR$/footer.inc.php" />
       </list>
     </option>
   </component>
@@ -214,13 +210,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53721000" />
+    <option name="totallyTimeSpent" value="54752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12779553" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12779553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,13 +318,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nosdomaines.html" />
-    <entry file="file://$PROJECT_DIR$/terrassement.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="948">
-          <caret line="114" column="34" selection-start-line="114" selection-start-column="34" selection-end-line="114" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -336,21 +325,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.inc.php">
+    <entry file="file://$PROJECT_DIR$/terrassement.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="n#div#0;n#!!top" />
-            <element signature="n#div#1;n#!!top" />
-          </folding>
+        <state relative-caret-position="1710">
+          <caret line="114" column="34" selection-start-line="114" selection-start-column="34" selection-end-line="114" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="948">
+        <state relative-caret-position="369">
           <caret line="277" selection-start-line="277" selection-end-line="277" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <element signature="n#div#1;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
