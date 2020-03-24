@@ -7,6 +7,9 @@
             <!--desktop-->
             <h1 class="text-center text-white font-weight-bold my-4 hidden border-text">PISCINE</h1>
         </div>
+
+    <!-- FIN IMAGE FIXE -->
+
         <div class="container my-5 text-size">
             <p>
                 Nous effectuons tout type de piscine de la plus grosse à la plus petite,
@@ -72,48 +75,6 @@
         </div>
 
 
-
-
-
-
-
-
-<!--        &lt;!&ndash;desktop&ndash;&gt;-->
-<!--        <div class="container d-flex justify-content-around hidden">-->
-<!--            <img src="images/assets/terrassement-1.jpg" alt="..." class="domain-slideshow">-->
-<!--            <img src="images/assets/terrassement-2.jpg" alt="..." class="domain-slideshow">-->
-<!--            <img src="images/assets/terrassement-3.jpg" alt="..." class="domain-slideshow">-->
-<!--            <img src="images/assets/terrassement-4.jpg" alt="..." class="domain-slideshow">-->
-<!--            &lt;!&ndash;            <img src="images/assets/terrassement-5.jpg" alt="..." class="domain-slideshow">&ndash;&gt;-->
-<!--        </div>-->
-
-
-
-
-
-
-
-<!--        &lt;!&ndash;Phone&ndash;&gt;-->
-<!--        <div class="container d-flex justify-content-around visible">-->
-<!--            <img src="images/assets/terrassement-1.jpg" alt="..." class="domain-slideshow">-->
-<!--            <img src="images/assets/terrassement-2.jpg" alt="..." class="domain-slideshow">-->
-<!--        </div>-->
-<!--        <div class="container d-flex justify-content-around my-4">-->
-<!--            <img src="images/assets/terrassement-3.jpg" alt="..." class="domain-slideshow">-->
-<!--            <img src="images/assets/terrassement-4.jpg" alt="..." class="domain-slideshow">-->
-<!--        </div>-->
-
-<!--        &lt;!&ndash;desktop&ndash;&gt;-->
-<!--        <div class="container d-flex justify-content-around hidden">-->
-<!--            <img src="images/assets/terrassement-1.jpg" alt="..." class="domain-slideshow">-->
-<!--            <img src="images/assets/terrassement-2.jpg" alt="..." class="domain-slideshow">-->
-<!--            <img src="images/assets/terrassement-3.jpg" alt="..." class="domain-slideshow">-->
-<!--            <img src="images/assets/terrassement-4.jpg" alt="..." class="domain-slideshow">-->
-<!--&lt;!&ndash;            <img src="images/assets/terrassement-5.jpg" alt="..." class="domain-slideshow">&ndash;&gt;-->
-<!--        </div>-->
-
-
-    <!-- FIN IMAGE FIXE -->
 
 
 <?php include ('footer.inc.php')?>

@@ -69,7 +69,7 @@
 						<div class="card-body">
 							<h5 class="card-title">Voirie</h5>
 							<p class="card-text">Nous effectuons des allées et parking en enrobé à chaud (goudron) blabla blabla blabla blabla blabla blabla</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/voirie.php">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>
@@ -79,7 +79,7 @@
 						<div class="card-body">
 							<h5 class="card-title">Voirie</h5>
 							<p class="card-text">Nous effectuons des allées et parking en enrobé à chaud (goudron) blabla blabla blabla blabla blabla blabla</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/voirie.php">En savoir plus</a></small></p>
 						</div>
 						<img src="images/assets/voirie.jpg" class="card-img-top" alt="goudron">
 					</div>

@@ -7,13 +7,13 @@
                 </a>
                 <div class="col-6 col-md-3">
                     <h3>Nos Domaines</h3>
-                    <p><a href="terrassement.php" class="color-text">Terrassement</a><br>
-                        Voiries-Réseau<br>
+                    <p><a href="/terrassement.php" class="color-text">Terrassement</a><br>
+                        <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
                         Maçonnerie<br>
                         Accès privé<br>
                         Revêtement divers<br>
                         Espaces Verts<br>
-                        Piscines<br>
+                        <a href="/piscine.php" class="color-text">Piscines</a><br>
                         Puits<br>
                         Fosses sceptiques<br>
                     </p>
@@ -21,7 +21,7 @@
                 <div class="col-6 col-md-3">
                     <div>
                         <h3>Navigation</h3>
-                        <p><a href="index.php" class="color-text">Accueil</a><br>
+                        <p><a href="/index.php" class="color-text">Accueil</a><br>
                             Nos Domaines<br>
                             Références<br>
                             Contact</p>
@@ -42,20 +42,20 @@
             <div class="row">
                 <div class="col-md-3">
                     <a class="mx-auto" href="#">
-                        <img src="images/assets/logo-blanc.png" alt="Logo BoumatTP" class="size-logo">
+                        <img src="/images/assets/logo-blanc.png" alt="Logo BoumatTP" class="size-logo">
                     </a>
                 </div>
                 <div class="col-md-3">
                     <h3>Navigation</h3>
-                    <p><a href="index.php" class="color-text">Accueil</a></p>
+                    <p><a href="/index.php" class="color-text">Accueil</a></p>
                     <p>Nos Domaines</p>
                     <p>Références</p>
                     <p>Contact</p>
                 </div>
                 <div class="col-md-3">
                     <h3>Nos Domaines</h3>
-                    <p><a href="terrassement.php" class="color-text">Terrassement</a><br>
-                        Voiries-Réseau<br>
+                    <p><a href="/terrassement.php" class="color-text">Terrassement</a><br>
+                        <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
                         Maçonnerie<br>
                         Accès privé<br>
                         Revêtement divers<br>
