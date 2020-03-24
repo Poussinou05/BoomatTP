@@ -58,7 +58,7 @@
 							<h5 class="card-title">Terrassement</h5>
 							<p class="card-text">Nous effectuons tout type de terrassement, du plus gros au plus petit. blabla blabla blabla blabla truffe bouh
 							</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="terrassement.php">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/terrassement.php">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>
@@ -116,7 +116,7 @@
 						<div class="card-body">
 							<h5 class="card-title">Piscine</h5>
 							<p class="card-text">Nous réalisons tout type de piscine, des grandes,des petites, rondes, carrées... blabla blabla blabla blabla</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/piscine.php">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>
@@ -126,7 +126,7 @@
 						<div class="card-body">
 							<h5 class="card-title">Piscine</h5>
 							<p class="card-text">Nous réalisons tout type de piscine, des grandes,des petites, rondes, carrées... blabla blabla blabla blabla</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/piscine.php">En savoir plus</a></small></p>
 						</div>
 						<img src="images/assets/piscine.jpg" class="card-img-top" alt="piscine">
 					</div>

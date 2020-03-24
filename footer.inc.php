@@ -60,7 +60,7 @@
                         Accès privé<br>
                         Revêtement divers<br>
                         Espaces Verts<br>
-                        Piscines<br>
+                        <a href="/piscine.php" class="color-text">Piscines</a><br>
                         Puits<br>
                         Fosses sceptiques<br>
                     </p>

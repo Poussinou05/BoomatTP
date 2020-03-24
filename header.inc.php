@@ -76,7 +76,7 @@
                     <a class="dropdown-item" href="#">Accès privés</a>
                     <a class="dropdown-item" href="#">Revêtements divers</a>
                     <a class="dropdown-item" href="#">Espaces verts</a>
-                    <a class="dropdown-item" href="#">Piscines</a>
+                    <a class="dropdown-item" href="/piscine.php">Piscines</a>
                     <a class="dropdown-item" href="#">Puits</a>
                     <a class="dropdown-item" href="#">Fosses sceptiques</a>
                     <a class="dropdown-item" href="#">Assainissements</a>

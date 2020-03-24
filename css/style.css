@@ -47,10 +47,26 @@ a:hover
     color: inherit;
 }
 
+.border-text
+{
+    text-shadow: -1px 0 black, 0 1px black,
+    1px 0 black, 0 -1px black
+}
+
 
 .top-image
 {
     background-image: url("../images/assets/excavator-modif.jpg");
+    background-size: cover;
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.top-image-piscine
+{
+    background-image: url("../images/assets/bandeau-piscine-modif.jpg");
     background-size: cover;
     height: 30vw;
     display: flex;
