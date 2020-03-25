@@ -70,8 +70,8 @@
         </div>
 
         <div class="d-flex justify-content-between mx-3">
-            <a href="#" class="classname btn text-size">Précédent</a>
-            <a href="#" class="classname btn text-size">Suivant</a>
+            <a href="#" class="change-domain-btn btn text-size">Précédent</a>
+            <a href="#" class="change-domain-btn btn text-size">Suivant</a>
         </div>
 
 

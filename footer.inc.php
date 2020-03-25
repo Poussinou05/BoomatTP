@@ -10,7 +10,7 @@
                     <p><a href="/terrassement.php" class="color-text">Terrassement</a><br>
                         <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
                         <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
-                        Accès privé<br>
+                        <a href="/acces-prive.php" class="color-text">Accès privé</a><br>
                         Revêtement divers<br>
                         Espaces Verts<br>
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
@@ -57,7 +57,7 @@
                     <p><a href="/terrassement.php" class="color-text">Terrassement</a><br>
                         <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
                         <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
-                        Accès privé<br>
+                        <a href="/acces-prive.php" class="color-text">Accès privé</a><br>
                         Revêtement divers<br>
                         Espaces Verts<br>
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
