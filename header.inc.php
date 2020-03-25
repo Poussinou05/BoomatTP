@@ -78,7 +78,7 @@
                     <a class="dropdown-item" href="/espaces-verts.php">Espaces verts</a>
                     <a class="dropdown-item" href="/piscine.php">Piscines</a>
                     <a class="dropdown-item" href="/puits.php">Puits</a>
-                    <a class="dropdown-item" href="#">Fosses sceptiques</a>
+                    <a class="dropdown-item" href="/fosses-sceptiques.php">Fosses sceptiques</a>
                     <a class="dropdown-item" href="#">Assainissements</a>
                 </div>
             </li>

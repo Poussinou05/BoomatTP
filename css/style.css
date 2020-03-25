@@ -124,6 +124,16 @@ a:hover
     align-items: flex-end;
 }
 
+.top-image-fosses-sceptiques
+{
+    background-image: url("../images/assets/bandeau-fosses-sceptiques.jpg");
+    background-size: cover;
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
 .domain-slideshow
 {
     background-color: #ef4232;

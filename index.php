@@ -163,7 +163,7 @@
 						<div class="card-body">
 							<h5 class="card-title">Fosses Sceptiques</h5>
 							<p class="card-text">Nous créons des fosses sceptiques selon vos besoins. blabla blabla blabla blabla blabla blabla truffe</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/fosses-sceptiques.php">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>
@@ -173,7 +173,7 @@
 						<div class="card-body">
 							<h5 class="card-title">Fosses Sceptiques</h5>
 							<p class="card-text">Nous créons des fosses sceptiques selon vos besoins. blabla blabla blabla blabla blabla blabla truffe</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/fosses-sceptiques.php">En savoir plus</a></small></p>
 						</div>
 						<img src="images/assets/fosse-sceptique.jpg" class="card-img-top" alt="fosse-sceptique">
 					</div>
