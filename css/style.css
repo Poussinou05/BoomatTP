@@ -64,16 +64,6 @@ a:hover
     align-items: flex-end;
 }
 
-.top-image-piscine
-{
-    background-image: url("../images/assets/bandeau-piscine-modif.jpg");
-    background-size: cover;
-    height: 30vw;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-}
-
 .top-image-voirie
 {
     background-image: url("../images/assets/bandeau-voirie.jpg");
@@ -107,6 +97,26 @@ a:hover
 .top-image-espaces-verts
 {
     background-image: url("../images/assets/espace-vert2.jpg");
+    background-size: cover;
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.top-image-piscine
+{
+    background-image: url("../images/assets/bandeau-piscine-modif.jpg");
+    background-size: cover;
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.top-image-puits
+{
+    background-image: url("../images/assets/bandeau-puits.jpg");
     background-size: cover;
     height: 30vw;
     display: flex;

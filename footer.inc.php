@@ -14,7 +14,7 @@
                         <a href="/revetement-divers.php" class="color-text">Revêtement divers</a><br>
                         <a href="espaces-verts.php" class="color-text">Espaces Verts<br>
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
-                        Puits<br>
+                        <a href="/puits.php" class="color-text">Puits</a><br>
                         Fosses sceptiques<br>
                     </p>
                 </div>
@@ -61,7 +61,7 @@
                         <a href="/revetement-divers.php" class="color-text">Revêtement divers</a><br>
                         <a href="espaces-verts.php" class="color-text">Espaces Verts<br>
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
-                        Puits<br>
+                        <a href="/puits.php" class="color-text">Puits</a><br>
                         Fosses sceptiques<br>
                     </p>
                 </div>

@@ -138,7 +138,7 @@
 						<div class="card-body">
 							<h5 class="card-title">Espace Vert</h5>
 							<p class="card-text">Nous réalisons tout type d’extérieur selon vos envies, blablabla blabla blabla blabla blabla blabla blabla blabla</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/espaces-verts.php">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>
@@ -152,7 +152,7 @@
 							<h5 class="card-title">Puits</h5>
 							<p class="card-text">Nous pouvons créer tout type de puit ou puizard,diamètre et profondeur.
 							</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/puits.php">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>
