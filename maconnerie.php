@@ -3,9 +3,9 @@
     <!-- IMAGE FIXE -->
         <div class="container-fluid px-0 top-image-voirie">
             <!--Phone-->
-            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">VOIRIE - RESEAU</h5>
+            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">MAÇONNERIE</h5>
             <!--desktop-->
-            <h1 class="text-center text-white font-weight-bold my-4 hidden border-text">VOIRIE - RESEAU</h1>
+            <h1 class="text-center text-white font-weight-bold my-4 hidden border-text">MAÇONNERIE</h1>
         </div>
 
     <!-- FIN IMAGE FIXE -->
@@ -67,9 +67,11 @@
         </div>
 
         <div class="d-flex justify-content-between mx-3">
-            <a href="/terrassement.php" class="classname btn text-size">Précédent</a>
-            <a href="/maconnerie.php" class="classname btn text-size">Suivant</a>
+            <a href="/voirie.php" class="classname btn text-size">Précédent</a>
+            <a href="#" class="classname btn text-size">Suivant</a>
         </div>
+
+
 
 
 <?php include ('footer.inc.php')?>

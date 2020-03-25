@@ -9,7 +9,7 @@
                     <h3>Nos Domaines</h3>
                     <p><a href="/terrassement.php" class="color-text">Terrassement</a><br>
                         <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
-                        Maçonnerie<br>
+                        <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
                         Accès privé<br>
                         Revêtement divers<br>
                         Espaces Verts<br>
@@ -56,7 +56,7 @@
                     <h3>Nos Domaines</h3>
                     <p><a href="/terrassement.php" class="color-text">Terrassement</a><br>
                         <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
-                        Maçonnerie<br>
+                        <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
                         Accès privé<br>
                         Revêtement divers<br>
                         Espaces Verts<br>

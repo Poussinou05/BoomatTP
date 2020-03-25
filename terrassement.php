@@ -67,7 +67,7 @@
         </div>
 
         <div class="d-flex justify-content-end mx-3">
-            <button type="button" class="btn btn-outline-danger text-size">Suivant</button>
+            <a href="/voirie.php" class="classname btn text-size">Suivant</a>
         </div>
 
 
