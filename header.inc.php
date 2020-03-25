@@ -100,7 +100,7 @@
     <div class="navbar-collapse collapse w-100 dual-collapse2 order-2 order-md-2 ml-5">
         <ul class="navbar-nav mr-auto text-center">
             <li class="nav-item">
-                <a class="nav-link" href="#">Références</a>
+                <a class="nav-link" href="/references.php">Références</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Contact</a>

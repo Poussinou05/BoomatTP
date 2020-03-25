@@ -29,7 +29,7 @@
 
 .max-width
 {
-    max-width: 200px;
+    max-width: 250px;
 }
 
 .background
@@ -169,6 +169,16 @@ a:hover
 /*   position:relative;*/
 /*   top:1px;*/
 /*}*/
+
+.nav-link-referencement.active
+{
+    color: #ef4232!important;
+    border-color: #ef4232!important;
+}
+.nav-link-referencement
+{
+    color: #8a8b8d;
+}
 
 @media (min-width: 992px) {
 

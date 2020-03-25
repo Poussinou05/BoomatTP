@@ -24,7 +24,7 @@
                         <h3>Navigation</h3>
                         <p><a href="/index.php" class="color-text">Accueil</a><br>
                             Nos Domaines<br>
-                            Références<br>
+                            <a href="/references.php" class="color-text">Références</a><br>
                             Contact</p>
                     </div>
                     <div>
@@ -50,7 +50,7 @@
                     <h3>Navigation</h3>
                     <p><a href="/index.php" class="color-text">Accueil</a></p>
                     <p>Nos Domaines</p>
-                    <p>Références</p>
+                    <p><a href="/references.php" class="color-text">Références</a></p>
                     <p>Contact</p>
                 </div>
                 <div class="col-md-3">
