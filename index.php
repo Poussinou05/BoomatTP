@@ -105,7 +105,7 @@
 							<h5 class="card-title">Revêtement divers</h5>
 							<p class="card-text">Nous réalisons du béton désactivé pour les piétonnier et accès voiture.. blabla blabla blabla blabla truffe
 							</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/revetement-divers.php">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>

@@ -11,7 +11,7 @@
                         <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
                         <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
                         <a href="/acces-prive.php" class="color-text">Accès privé</a><br>
-                        Revêtement divers<br>
+                        <a href="/revetement-divers.php" class="color-text">Revêtement divers</a><br>
                         Espaces Verts<br>
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
                         Puits<br>
@@ -58,7 +58,7 @@
                         <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
                         <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
                         <a href="/acces-prive.php" class="color-text">Accès privé</a><br>
-                        Revêtement divers<br>
+                        <a href="/revetement-divers.php" class="color-text">Revêtement divers</a><br>
                         Espaces Verts<br>
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
                         Puits<br>
