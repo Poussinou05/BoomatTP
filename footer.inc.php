@@ -12,7 +12,7 @@
                         <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
                         <a href="/acces-prive.php" class="color-text">Accès privé</a><br>
                         <a href="/revetement-divers.php" class="color-text">Revêtement divers</a><br>
-                        Espaces Verts<br>
+                        <a href="espaces-verts.php" class="color-text">Espaces Verts<br>
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
                         Puits<br>
                         Fosses sceptiques<br>
@@ -59,7 +59,7 @@
                         <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
                         <a href="/acces-prive.php" class="color-text">Accès privé</a><br>
                         <a href="/revetement-divers.php" class="color-text">Revêtement divers</a><br>
-                        Espaces Verts<br>
+                        <a href="espaces-verts.php" class="color-text">Espaces Verts<br>
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
                         Puits<br>
                         Fosses sceptiques<br>

@@ -1,11 +1,11 @@
 <?php include ('header.inc.php')?>
 
     <!-- IMAGE FIXE -->
-        <div class="container-fluid px-0 top-image-revetement-divers">
+        <div class="container-fluid px-0 top-image-espaces-verts">
             <!--Phone-->
-            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">REVÊTEMENT DIVERS</h5>
+            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">ESPACES VERTS</h5>
             <!--desktop-->
-            <h1 class="text-center text-white font-weight-bold my-4 hidden border-text">REVÊTEMENT DIVERS</h1>
+            <h1 class="text-center text-white font-weight-bold my-4 hidden border-text">ESPACES VERTS</h1>
         </div>
 
     <!-- FIN IMAGE FIXE -->
@@ -67,8 +67,8 @@
         </div>
 
         <div class="d-flex justify-content-between mx-3">
-            <a href="/acces-prive.php" class="change-domain-btn btn text-size">Précédent</a>
-            <a href="/espaces-verts.php" class="change-domain-btn btn text-size">Suivant</a>
+            <a href="/revetement-divers.php" class="change-domain-btn btn text-size">Précédent</a>
+            <a href="/piscine.php" class="change-domain-btn btn text-size">Suivant</a>
         </div>
 
 

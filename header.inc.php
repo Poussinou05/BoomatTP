@@ -75,7 +75,7 @@
                     <a class="dropdown-item" href="/maconnerie.php">Maçonnerie</a>
                     <a class="dropdown-item" href="/acces-prive.php">Accès privés</a>
                     <a class="dropdown-item" href="/revetement-divers.php">Revêtements divers</a>
-                    <a class="dropdown-item" href="#">Espaces verts</a>
+                    <a class="dropdown-item" href="/espaces-verts.php">Espaces verts</a>
                     <a class="dropdown-item" href="/piscine.php">Piscines</a>
                     <a class="dropdown-item" href="#">Puits</a>
                     <a class="dropdown-item" href="#">Fosses sceptiques</a>
