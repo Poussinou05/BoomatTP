@@ -185,7 +185,6 @@
 								<div class="card-body">
 									<h5 class="card-title">Création d'un espace vert</h5>
 									<p class="card-text">Venez découvrir comment nous avons créé un espace vert sur mesure dans le jardin d'un particulier</p>
-	<!--								<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>-->
 								</div>
 							</div>
 						</div>
@@ -200,7 +199,6 @@
 								<div class="card-body">
 									<h5 class="card-title">Création d'un espace vert</h5>
 									<p class="card-text">Venez découvrir comment nous avons créé un espace vert sur mesure dans le jardin d'un particulier</p>
-									<!--								<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>-->
 								</div>
 							</div>
 						</div>
@@ -208,7 +206,7 @@
 				</div>
 			</div>
 				<p class="lead text-center mt-4">
-					<a class="color-logo" href="#">Plus de références</a>
+					<a class="color-logo" href="/references.php">Plus de références</a>
 				</p>
 		</div>
 
