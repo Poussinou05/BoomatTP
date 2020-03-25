@@ -185,7 +185,7 @@
 						<div class="card-body">
 							<h5 class="card-title">Assainissement</h5>
 							<p class="card-text">Nous réalisons tout d'assainissement, blablabla blabla blabla blabla blabla blabla blabla blabla blabla</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="#">En savoir plus</a></small></p>
+							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/assainissements.php">En savoir plus</a></small></p>
 						</div>
 					</div>
 				</div>

@@ -16,6 +16,7 @@
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
                         <a href="/puits.php" class="color-text">Puits</a><br>
                         <a href="/fosses-sceptiques.php" class="color-text">Fosses sceptiques</a><br>
+                        <a href="/assainissements.php" class="color-text">Assainissements</a><br>
                     </p>
                 </div>
                 <div class="col-6 col-md-3">
@@ -63,6 +64,7 @@
                         <a href="/piscine.php" class="color-text">Piscines</a><br>
                         <a href="/puits.php" class="color-text">Puits</a><br>
                         <a href="/fosses-sceptiques.php" class="color-text">Fosses sceptiques</a><br>
+                        <a href="/assainissements.php" class="color-text">Assainissements</a><br>
                     </p>
                 </div>
                 <div class="col-md-3">

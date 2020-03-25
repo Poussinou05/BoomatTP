@@ -79,7 +79,7 @@
                     <a class="dropdown-item" href="/piscine.php">Piscines</a>
                     <a class="dropdown-item" href="/puits.php">Puits</a>
                     <a class="dropdown-item" href="/fosses-sceptiques.php">Fosses sceptiques</a>
-                    <a class="dropdown-item" href="#">Assainissements</a>
+                    <a class="dropdown-item" href="/assainissements.php">Assainissements</a>
                 </div>
             </li>
         </ul>

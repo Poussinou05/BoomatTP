@@ -134,6 +134,16 @@ a:hover
     align-items: flex-end;
 }
 
+.top-image-assainissement
+{
+    background-image: url("../images/assets/bandeau-assainissement.jpg");
+    background-size: cover;
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
 .domain-slideshow
 {
     background-color: #ef4232;

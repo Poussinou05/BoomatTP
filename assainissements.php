@@ -1,11 +1,11 @@
 <?php include ('header.inc.php')?>
 
     <!-- IMAGE FIXE -->
-        <div class="container-fluid px-0 top-image-fosses-sceptiques">
+        <div class="container-fluid px-0 top-image-assainissement">
             <!--Phone-->
-            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">FOSSES SCEPTIQUES</h5>
+            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">ASSAINISSEMENTS</h5>
             <!--desktop-->
-            <h1 class="text-center text-white font-weight-bold my-4 hidden border-text">FOSSES SCEPTIQUES</h1>
+            <h1 class="text-center text-white font-weight-bold my-4 hidden border-text">ASSAINISSEMENTS</h1>
         </div>
 
     <!-- FIN IMAGE FIXE -->
@@ -70,8 +70,7 @@
         </div>
 
         <div class="d-flex justify-content-between mx-3">
-            <a href="/puits.php" class="change-domain-btn btn text-size">Précédent</a>
-            <a href="/assainissements.php" class="change-domain-btn btn text-size">Suivant</a>
+            <a href="/fosses-sceptiques.php" class="change-domain-btn btn text-size">Précédent</a>
         </div>
 
 
