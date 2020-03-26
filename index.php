@@ -7,7 +7,7 @@
 		<!-- Phone -->
 		<div class="jumbotron jumbotron-fluid">
 			<div class="container">
-				<p class="lead text-size">Fondée en 2011 BOUMAT TP est une entreprise familiale indépendante à taille humaine.
+				<p class="lead">Fondée en 2011 BOUMAT TP est une entreprise familiale indépendante à taille humaine.
 					Notre réputation s’est construite sur des valeurs fortes tels que : le respect de nos délais,
 					la qualité du travail effectué ainsi que nos prix pratiqué.
 					Nous maîtrisons plusieurs domaines de compétence : terrassement, voirie, maçonnerie,
@@ -29,7 +29,7 @@
 					<div class="card">
 						<img src="images/assets/terrassement.jpg" class="card-img-top" alt="Pelleteuse">
 						<div class="card-body">
-							<h5 class="card-title">Terrassement</h5>
+							<h3 class="card-title">Terrassement</h3>
 							<p class="card-text">Nous effectuons tout type de terrassement, du plus gros au plus petit. blabla blabla blabla blabla truffe bouh
 							</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/terrassement.php">En savoir plus</a></small></p>
@@ -41,7 +41,7 @@
 					<div class="card">
 						<img src="images/assets/voirie.jpg" class="card-img-top" alt="goudron">
 						<div class="card-body">
-							<h5 class="card-title">Voirie</h5>
+							<h3 class="card-title">Voirie</h3>
 							<p class="card-text">Nous effectuons des allées et parking en enrobé à chaud (goudron) blabla blabla blabla blabla blabla blabla</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/voirie.php">En savoir plus</a></small></p>
 						</div>
@@ -51,7 +51,7 @@
 				<div class="col-md-6 col-lg-4 hidden">
 					<div class="card">
 						<div class="card-body">
-							<h5 class="card-title">Voirie</h5>
+							<h3 class="card-title">Voirie</h3>
 							<p class="card-text">Nous effectuons des allées et parking en enrobé à chaud (goudron) blabla blabla blabla blabla blabla blabla</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/voirie.php">En savoir plus</a></small></p>
 						</div>
@@ -63,7 +63,7 @@
 					<div class="card">
 						<img src="images/assets/maçonnerie.jpg" class="card-img-top" alt="maçonnerie">
 						<div class="card-body">
-							<h5 class="card-title">Maçonnerie</h5>
+							<h3 class="card-title">Maçonnerie</h3>
 							<p class="card-text">Nous effectuons tout type de maçonnerie, blablabla blabla blabla blabla blabla blabla blabla blabla blabla blabla</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/maconnerie.php">En savoir plus</a></small></p>
 						</div>
@@ -76,7 +76,7 @@
 					<div class="card">
 						<img src="images/assets/revetement.jpg" class="card-img-top" alt="revetement">
 						<div class="card-body">
-							<h5 class="card-title">Revêtement divers</h5>
+							<h3 class="card-title">Revêtement divers</h3>
 							<p class="card-text">Nous réalisons du béton désactivé pour les piétonnier et accès voiture.. blabla blabla blabla blabla truffe
 							</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/revetement-divers.php">En savoir plus</a></small></p>
@@ -88,7 +88,7 @@
 					<div class="card">
 						<img src="images/assets/piscine.jpg" class="card-img-top" alt="piscine">
 						<div class="card-body">
-							<h5 class="card-title">Piscine</h5>
+							<h3 class="card-title">Piscine</h3>
 							<p class="card-text">Nous réalisons tout type de piscine, des grandes,des petites, rondes, carrées... blabla blabla blabla blabla</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/piscine.php">En savoir plus</a></small></p>
 						</div>
@@ -98,7 +98,7 @@
 				<div class="col-md-6 col-lg-4 hidden">
 					<div class="card">
 						<div class="card-body">
-							<h5 class="card-title">Piscine</h5>
+							<h3 class="card-title">Piscine</h3>
 							<p class="card-text">Nous réalisons tout type de piscine, des grandes,des petites, rondes, carrées... blabla blabla blabla blabla</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/piscine.php">En savoir plus</a></small></p>
 						</div>
@@ -110,7 +110,7 @@
 					<div class="card">
 						<img src="images/assets/espace-vert.jpg" class="card-img-top" alt="espace vert">
 						<div class="card-body">
-							<h5 class="card-title">Espace Vert</h5>
+							<h3 class="card-title">Espace Vert</h3>
 							<p class="card-text">Nous réalisons tout type d’extérieur selon vos envies, blablabla blabla blabla blabla blabla blabla blabla blabla</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/espaces-verts.php">En savoir plus</a></small></p>
 						</div>
@@ -123,7 +123,7 @@
 					<div class="card">
 						<img src="images/assets/puit.jpg" class="card-img-top" alt="puit">
 						<div class="card-body">
-							<h5 class="card-title">Puits</h5>
+							<h3 class="card-title">Puits</h3>
 							<p class="card-text">Nous pouvons créer tout type de puit ou puizard,diamètre et profondeur.
 							</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/puits.php">En savoir plus</a></small></p>
@@ -135,7 +135,7 @@
 					<div class="card">
 						<img src="images/assets/fosse-sceptique.jpg" class="card-img-top" alt="fosse-sceptique">
 						<div class="card-body">
-							<h5 class="card-title">Fosses Sceptiques</h5>
+							<h3 class="card-title">Fosses Sceptiques</h3>
 							<p class="card-text">Nous créons des fosses sceptiques selon vos besoins. blabla blabla blabla blabla blabla blabla truffe</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/fosses-sceptiques.php">En savoir plus</a></small></p>
 						</div>
@@ -145,7 +145,7 @@
 				<div class="col-md-6 col-lg-4 hidden">
 					<div class="card">
 						<div class="card-body">
-							<h5 class="card-title">Fosses Sceptiques</h5>
+							<h3 class="card-title">Fosses Sceptiques</h3>
 							<p class="card-text">Nous créons des fosses sceptiques selon vos besoins. blabla blabla blabla blabla blabla blabla truffe</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/fosses-sceptiques.php">En savoir plus</a></small></p>
 						</div>
@@ -157,7 +157,7 @@
 					<div class="card">
 						<img src="images/assets/assainissement.jpg" class="card-img-top" alt="assainissement">
 						<div class="card-body">
-							<h5 class="card-title">Assainissement</h5>
+							<h3 class="card-title">Assainissement</h3>
 							<p class="card-text">Nous réalisons tout d'assainissement, blablabla blabla blabla blabla blabla blabla blabla blabla blabla</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/assainissements.php">En savoir plus</a></small></p>
 						</div>
@@ -183,7 +183,7 @@
 							</div>
 							<div class="col-md-7">
 								<div class="card-body">
-									<h5 class="card-title">Création d'un espace vert</h5>
+									<h3 class="card-title">Création d'un espace vert</h3>
 									<p class="card-text">Venez découvrir comment nous avons créé un espace vert sur mesure dans le jardin d'un particulier</p>
 								</div>
 							</div>
@@ -197,7 +197,7 @@
 							</div>
 							<div class="col-md-7">
 								<div class="card-body">
-									<h5 class="card-title">Création d'un espace vert</h5>
+									<h3 class="card-title">Création d'un espace vert</h3>
 									<p class="card-text">Venez découvrir comment nous avons créé un espace vert sur mesure dans le jardin d'un particulier</p>
 								</div>
 							</div>

@@ -7,8 +7,8 @@
         <div class="carousel-inner">
 
             <div class="container-fluid px-0 title-caroussel">
-                <h5 class="font-weight-bold border-text text-white visible">NOS REFERENCES</h5>
-                <h1 class="font-weight-bold border-text text-white hidden">NOS REFERENCES</h1>
+<!--                <h3 class="font-weight-bold border-text text-white visible">NOS REFERENCES</h3>-->
+                <h1 class="font-weight-bold border-text text-white">Nos Références</h1>
             </div>
 
             <div class="carousel-item active">
@@ -33,7 +33,7 @@
 
     <!-- FIN CAROUSSEL -->
 
-    <ul class="nav nav-tabs justify-content-around mt-1" id="myTab" role="tablist">
+    <ul class="nav nav-tabs justify-content-around mt-1 font-weight-bold" id="myTab" role="tablist">
         <li class="nav-item">
             <a class="nav-link active nav-link-referencement" id="terrassement-tab" data-toggle="tab" href="#terrassement" role="tab" aria-controls="terrassement" aria-selected="true">Terrassement</a>
         </li>
@@ -69,49 +69,49 @@
         <div class="tab-pane fade show active" id="terrassement" role="tabpanel" aria-labelledby="terrasement-tab">
 
             <div class="jumbotron jumbotron-fluid bg-white">
-<!--                <div class="container">-->
-                    <div class="row justify-content-around">
-                        <div class="card my-5 max-width">
+                <div class="row justify-content-around">
+                    <div class="card my-5 max-width">
+                        <a href="reference-terrassement.php" class="color-text">
                             <div class="row no-gutters">
                                 <div class="col-md-5">
                                     <img src="/images/assets/reference-terrassement-1.jpg" class="card-img" alt="...">
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Terrassement pour une copropiété</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                                        <h3 class="card-title">Terrassement pour une copropiété</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has</p>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="card my-5 max-width">
-                            <div class="row no-gutters">
-                                <div class="col-md-5">
-                                    <img src="/images/assets/reference-terrassement-1.jpg" class="card-img" alt="...">
-                                </div>
-                                <div class="col-md-7">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Terrassement pour une copropiété</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
-                                    </div>
-                                </div>
+                        </a>
+                    </div>
+                    <div class="card my-5 max-width">
+                        <div class="row no-gutters">
+                            <div class="col-md-5">
+                                <img src="/images/assets/reference-terrassement-1.jpg" class="card-img" alt="...">
                             </div>
-                        </div>
-                        <div class="card my-5 max-width">
-                            <div class="row no-gutters">
-                                <div class="col-md-5">
-                                    <img src="/images/assets/reference-terrassement-1.jpg" class="card-img" alt="...">
-                                </div>
-                                <div class="col-md-7">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Terrassement pour une copropiété</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
-                                    </div>
+                            <div class="col-md-7">
+                                <div class="card-body">
+                                    <h3 class="card-title">Terrassement pour une copropiété</h3>
+                                    <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-<!--                </div>-->
+                    <div class="card my-5 max-width">
+                        <div class="row no-gutters">
+                            <div class="col-md-5">
+                                <img src="/images/assets/reference-terrassement-1.jpg" class="card-img" alt="...">
+                            </div>
+                            <div class="col-md-7">
+                                <div class="card-body">
+                                    <h3 class="card-title">Terrassement pour une copropiété</h3>
+                                    <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="tab-pane fade" id="voirie" role="tabpanel" aria-labelledby="voirie-tab">
@@ -125,8 +125,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une allée pour un particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une allée pour un particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -138,8 +138,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une allée pour un particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une allée pour un particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -151,8 +151,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une allée pour un particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une allée pour un particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -172,8 +172,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une extension pour un pro</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une extension pour un pro</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -185,8 +185,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une extension pour un pro</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une extension pour un pro</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -198,8 +198,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une extension pour un pro</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une extension pour un pro</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -211,8 +211,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une extension pour un pro</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une extension pour un pro</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -232,8 +232,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une allée de jardin pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une allée de jardin pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -245,8 +245,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une allée de jardin pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une allée de jardin pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -266,8 +266,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une allée de jardin pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une allée de jardin pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -279,8 +279,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une allée de jardin pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une allée de jardin pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -300,8 +300,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'un jardin pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'un jardin pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -313,8 +313,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'un jardin pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'un jardin pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -334,8 +334,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une piscine pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une piscine pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -347,8 +347,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une piscine pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une piscine pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -368,8 +368,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'un puit pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'un puit pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -381,8 +381,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'un puit pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'un puit pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -402,8 +402,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une fosse sceptique pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une fosse sceptique pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -415,8 +415,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation d'une fosse sceptique pour particulier</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation d'une fosse sceptique pour particulier</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -436,8 +436,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation de l'assainissement pour une copro</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation de l'assainissement pour une copro</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -449,8 +449,8 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="card-body">
-                                        <h5 class="card-title">Réalisation de l'assainissement pour une copro</h5>
-                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                                        <h3 class="card-title">Réalisation de l'assainissement pour une copro</h3>
+                                        <p class="card-text">Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
                                     </div>
                                 </div>
                             </div>

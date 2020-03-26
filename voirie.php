@@ -3,14 +3,14 @@
     <!-- IMAGE FIXE -->
         <div class="container-fluid px-0 top-image-voirie">
             <!--Phone-->
-            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">VOIRIE - RESEAU</h5>
+<!--            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">VOIRIE - RESEAU</h5>-->
             <!--desktop-->
-            <h1 class="text-center text-white font-weight-bold my-4 hidden border-text">VOIRIE - RESEAU</h1>
+            <h1 class="text-center text-white font-weight-bold my-4 border-text">Voirie - Réseau</h1>
         </div>
 
     <!-- FIN IMAGE FIXE -->
 
-        <div class="container my-5 text-size">
+        <div class="container my-5 ">
             <p>
                 Nous effectuons tout type de terrassement du plus gros au plus petit.
                 Chez un particulier pour, créer votre future piscine, décaisser le sol de votre
@@ -67,8 +67,8 @@
         </div>
 
         <div class="d-flex justify-content-between mx-3">
-            <a href="/terrassement.php" class="change-domain-btn btn text-size">Précédent</a>
-            <a href="/maconnerie.php" class="change-domain-btn btn text-size">Suivant</a>
+            <a href="/terrassement.php" class="change-domain-btn btn ">Précédent</a>
+            <a href="/maconnerie.php" class="change-domain-btn btn ">Suivant</a>
         </div>
 
 

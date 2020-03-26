@@ -17,10 +17,26 @@
     max-height: 100px!important;
 }
 
-.text-size
+p
 {
     font-size: 0.8rem!important;
 }
+
+h1
+{
+    font-size: 1.7rem
+}
+
+h2
+{
+    font-size: 1.25rem;
+}
+
+h3
+{
+    font-size: 0.9rem;
+}
+
 
 .size-logo
 {
@@ -159,16 +175,12 @@ a:hover
   text-indent:0;
   border:1px solid #ef4232;
   color:#ef4232;
-  font-size:15px;
+  font-size:0.8rem;
   font-style:normal;
-  height:50px;
+  height:35px;
   text-decoration:none;
 }
 
-/*.classname:active {*/
-/*   position:relative;*/
-/*   top:1px;*/
-/*}*/
 
 .nav-link-referencement.active
 {
@@ -208,9 +220,55 @@ a:hover
         max-width: 95%;
     }
 
-    .text-size
+    p
     {
         font-size: 1.25rem!important;
     }
 
+    h1
+    {
+        font-size: 3.5rem
+    }
+
+    h2
+    {
+        font-size: 2.25rem;
+    }
+
+    h3
+    {
+        font-size: 1.4rem;
+    }
+
+    .change-domain-btn
+    {
+        -moz-box-shadow:inset 0px 1px 0px 0px #ef4232;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ef4232;
+        box-shadow:inset 0px 1px 0px 0px #ef4232;
+        text-indent:0;
+        border:1px solid #ef4232;
+        color:#ef4232;
+        font-size:1.25rem;
+        font-style:normal;
+        height:45px;
+        text-decoration:none;
+    }
+}
+
+@media (min-width: 1140px) {
+
+    h1
+    {
+        font-size: 5rem
+    }
+
+    h2
+    {
+        font-size: 3rem;
+    }
+
+    h3
+    {
+        font-size: 1.75rem;
+    }
 }

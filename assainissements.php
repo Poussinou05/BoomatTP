@@ -3,14 +3,14 @@
     <!-- IMAGE FIXE -->
         <div class="container-fluid px-0 top-image-assainissement">
             <!--Phone-->
-            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">ASSAINISSEMENTS</h5>
+<!--            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">ASSAINISSEMENTS</h5>-->
             <!--desktop-->
-            <h1 class="text-center text-white font-weight-bold my-4 hidden border-text">ASSAINISSEMENTS</h1>
+            <h1 class="text-center text-white font-weight-bold my-4 border-text">Assainissements</h1>
         </div>
 
     <!-- FIN IMAGE FIXE -->
 
-        <div class="container my-5 text-size">
+        <div class="container my-5 ">
             <p>
                 Nous effectuons tout type de piscine de la plus grosse à la plus petite,
                 de toutes les formes, rondes, carrées, ou moins traditionnelle.
@@ -70,7 +70,7 @@
         </div>
 
         <div class="d-flex justify-content-between mx-3">
-            <a href="/fosses-sceptiques.php" class="change-domain-btn btn text-size">Précédent</a>
+            <a href="/fosses-sceptiques.php" class="change-domain-btn btn ">Précédent</a>
         </div>
 
 
