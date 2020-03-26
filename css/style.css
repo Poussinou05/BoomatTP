@@ -180,6 +180,16 @@ a:hover
     color: #8a8b8d;
 }
 
+.title-caroussel
+{
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    position: absolute;
+    z-index: 10;
+}
+
 @media (min-width: 992px) {
 
     .visible{
@@ -202,4 +212,5 @@ a:hover
     {
         font-size: 1.25rem!important;
     }
+
 }
