@@ -22,10 +22,12 @@
                 <div class="col-6 col-md-3">
                     <div>
                         <h3>Navigation</h3>
-                        <p><a href="/index.php" class="color-text">Accueil</a><br>
+                        <p>
+                            <a href="/index.php" class="color-text">Accueil</a><br>
                             Nos Domaines<br>
                             <a href="/references.php" class="color-text">Références</a><br>
-                            Contact</p>
+                            <a href="/contact.php" class="color-text">Contact</a>
+                        </p>
                     </div>
                     <div>
                         <h3>Contact</h3>
@@ -51,7 +53,7 @@
                     <p><a href="/index.php" class="color-text">Accueil</a></p>
                     <p>Nos Domaines</p>
                     <p><a href="/references.php" class="color-text">Références</a></p>
-                    <p>Contact</p>
+                    <p><a href="/contact.php" class="color-text">Contact</a></p>
                 </div>
                 <div class="col-md-3">
                     <h3>Nos Domaines</h3>
