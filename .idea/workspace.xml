@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8ef56c2-fcd3-4b7f-8ecd-bf632460bf93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post_contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.inc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,17 +36,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="405">
               <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="472">
+              <caret line="71" column="67" selection-start-line="71" selection-start-column="67" selection-end-line="71" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/post_contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+              <folding>
+                <element signature="e#7#22#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="863">
+            <state relative-caret-position="1575">
               <caret line="105" column="54" selection-start-line="105" selection-start-column="54" selection-end-line="105" selection-end-column="54" />
             </state>
           </provider>
@@ -73,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3090">
-              <caret line="206" column="13" selection-start-line="206" selection-start-column="13" selection-end-line="206" selection-end-column="13" />
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -91,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reference-terrassement.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="933">
+            <state relative-caret-position="1260">
               <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="34" />
             </state>
           </provider>
@@ -126,6 +137,7 @@
       <find>text-size</find>
       <find>voirie</find>
       <find>Lorem Ipsum has been the industry's standard</find>
+      <find>form-gr</find>
     </findStrings>
     <replaceStrings>
       <replace>voirie</replace>
@@ -160,6 +172,7 @@
         <option value="$PROJECT_DIR$/header.inc.php" />
         <option value="$PROJECT_DIR$/footer.inc.php" />
         <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/post_contact.php" />
       </list>
     </option>
   </component>
@@ -185,6 +198,10 @@
               <item name="Boumat-TP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Boumat-TP" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boumat-TP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -272,22 +289,24 @@
       <workItem from="1586859943693" duration="599000" />
       <workItem from="1586879537576" duration="393000" />
       <workItem from="1586938312427" duration="375000" />
-      <workItem from="1586942598130" duration="3066000" />
+      <workItem from="1586942598130" duration="3689000" />
+      <workItem from="1587492097325" duration="546000" />
+      <workItem from="1587539620797" duration="9818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96143000" />
+    <option name="totallyTimeSpent" value="107130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14270501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14536741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299539" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -296,7 +315,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49893504" weight="0.51152074" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49893504" visible="true" weight="0.29124424" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50106496" side_tool="true" weight="0.53364056" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -480,13 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3090">
-          <caret line="206" column="13" selection-start-line="206" selection-start-column="13" selection-end-line="206" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/references.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -501,16 +513,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reference-terrassement.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="933">
-          <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="863">
+        <state relative-caret-position="1575">
           <caret line="105" column="54" selection-start-line="105" selection-start-column="54" selection-end-line="105" selection-end-column="54" />
         </state>
       </provider>
@@ -522,17 +527,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/reference-terrassement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="405">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="472">
+          <caret line="71" column="67" selection-start-line="71" selection-start-column="67" selection-end-line="71" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post_contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="e#7#22#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,12 @@
+{
+    "name": "laurianechauvet/boumat-tp",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "lauriane chauvet",
+            "email": "pixelleart@gmail.com"
+        }
+    ]
+}
