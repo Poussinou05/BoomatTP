@@ -5,24 +5,16 @@
             <!--Phone-->
 <!--            <h5 class="text-center text-white font-weight-bold my-4 visible border-text">VOIRIE - RESEAU</h5>-->
             <!--desktop-->
-            <h1 class="text-center text-white font-weight-bold my-4 border-text">Voirie - Réseau</h1>
+            <h1 class="text-center text-white font-weight-bold my-4 border-text">Voirie</h1>
         </div>
 
     <!-- FIN IMAGE FIXE -->
 
         <div class="container my-5 ">
             <p>
-                Nous effectuons tout type de terrassement du plus gros au plus petit.
-                Chez un particulier pour, créer votre future piscine, décaisser le sol de votre
-                future terrasse, aplanir et modeler le sol pour votre future construction ou
-                l'aménagement de votre jardin.
-                Chez des professionnels pour créer une plateforme de bâtiment.
-                Nous sommes capables d’utiliser tous types de pelle, de la micro pelle
-                qui passe par portillon d’un mètre jusqu’aux pelles de 22 tonnes.
-                L’évacuation des terres peut se faire par semi-remorque, camion 6X4 ou 8X4,
-                ou fourgon benne 3,5t et pour finir à la brouette.
-                Nous faisons aussi des enrochements de différents types.
-
+                Les travaux de voirie consistent à réaliser des voies de circulation tel que Les routes, les chemins, les trottoirs, les voies piétonnes, les parkings.
+                Nous pouvons utiliser de  l’enrobé à chaud (goudron) ou du bicouche et tricouche
+                Il y a différente granulométrie 0/6 et 0/10.
             </p>
         </div>
 
@@ -52,16 +44,16 @@
         <div class="container hidden">
             <div class="row">
                 <div class="offset-2 col-2">
-                    <img src="/images/assets/terrassement-1.jpg" alt="..." class="domain-slideshow">
+                    <img src="/images/assets/voirie-1.jpg" alt="..." class="domain-slideshow">
                 </div>
                 <div class="col-2">
-                    <img src="/images/assets/terrassement-2.jpg" alt="..." class="domain-slideshow">
+                    <img src="/images/assets/voirie-0.jpg" alt="..." class="domain-slideshow">
                 </div>
                 <div class="col-2">
-                    <img src="/images/assets/terrassement-3.jpg" alt="..." class="domain-slideshow">
+                    <img src="/images/assets/voirie-4.jpg" alt="..." class="domain-slideshow">
                 </div>
                 <div class="col-2">
-                    <img src="/images/assets/terrassement-4.jpg" alt="..." class="domain-slideshow">
+                    <img src="/images/assets/voirie-5.jpg" alt="..." class="domain-slideshow">
                 </div>
             </div>
         </div>

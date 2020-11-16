@@ -30,7 +30,8 @@
 						<img src="images/assets/terrassement.jpg" class="card-img-top" alt="Pelleteuse">
 						<div class="card-body">
 							<h3 class="card-title">Terrassement</h3>
-							<p class="card-text">Nous effectuons tout type de terrassement, du plus gros au plus petit. blabla blabla blabla blabla truffe bouh
+							<p class="card-text">Nous effectuons tout type de terrassement du plus gros au plus petit. Chez un particulier pour, créer votre future piscine, décaisser le sol de votre
+                                future terrasse...
 							</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/terrassement.php">En savoir plus</a></small></p>
 						</div>
@@ -39,10 +40,13 @@
 				<!-- Phone -->
 				<div class="col-md-6 visible">
 					<div class="card">
+                        <!--photo 1.1-->
 						<img src="images/assets/voirie.jpg" class="card-img-top" alt="goudron">
 						<div class="card-body">
 							<h3 class="card-title">Voirie</h3>
-							<p class="card-text">Nous effectuons des allées et parking en enrobé à chaud (goudron) blabla blabla blabla blabla blabla blabla</p>
+							<p class="card-text">
+                                Les travaux de voirie consistent à réaliser des voies de circulation tel que Les routes, les chemins, les trottoirs, les voies piétonnes, les parkings.
+                            </p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/voirie.php">En savoir plus</a></small></p>
 						</div>
 					</div>
@@ -52,23 +56,26 @@
 					<div class="card">
 						<div class="card-body">
 							<h3 class="card-title">Voirie</h3>
-							<p class="card-text">Nous effectuons des allées et parking en enrobé à chaud (goudron) blabla blabla blabla blabla blabla blabla</p>
+							<p class="card-text">
+                                Les travaux de voirie consistent à réaliser des voies de circulation tel que Les routes, les chemins, les trottoirs, les voies piétonnes, les parkings.
+                            </p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/voirie.php">En savoir plus</a></small></p>
 						</div>
 						<img src="images/assets/voirie.jpg" class="card-img-top" alt="goudron">
 					</div>
 				</div>
 
-				<div class="col-md-6 col-lg-4">
-					<div class="card">
-						<img src="images/assets/maçonnerie.jpg" class="card-img-top" alt="maçonnerie">
-						<div class="card-body">
-							<h3 class="card-title">Maçonnerie</h3>
-							<p class="card-text">Nous effectuons tout type de maçonnerie, blablabla blabla blabla blabla blabla blabla blabla blabla blabla blabla</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/maconnerie.php">En savoir plus</a></small></p>
-						</div>
-					</div>
-				</div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="card">
+                        <img src="images/assets/assainissement.jpg" class="card-img-top" alt="assainissement">
+                        <div class="card-body">
+                            <h3 class="card-title">Assainissement</h3>
+                            <p class="card-text">Nous réalisons tout d'assainissement, blablabla blabla blabla blabla blabla blabla blabla blabla blabla</p>
+                            <p class="card-text"><small class="text-muted"><a class="color-logo" href="/assainissements.php">En savoir plus</a></small></p>
+                        </div>
+                    </div>
+                </div>
+
 
 
 
@@ -88,7 +95,7 @@
 					<div class="card">
 						<img src="images/assets/piscine.jpg" class="card-img-top" alt="piscine">
 						<div class="card-body">
-							<h3 class="card-title">Piscine</h3>
+							<h3 class="card-title">Réseau</h3>
 							<p class="card-text">Nous réalisons tout type de piscine, des grandes,des petites, rondes, carrées... blabla blabla blabla blabla</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/piscine.php">En savoir plus</a></small></p>
 						</div>
@@ -98,7 +105,7 @@
 				<div class="col-md-6 col-lg-4 hidden">
 					<div class="card">
 						<div class="card-body">
-							<h3 class="card-title">Piscine</h3>
+							<h3 class="card-title">Réseau</h3>
 							<p class="card-text">Nous réalisons tout type de piscine, des grandes,des petites, rondes, carrées... blabla blabla blabla blabla</p>
 							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/piscine.php">En savoir plus</a></small></p>
 						</div>
@@ -153,16 +160,16 @@
 					</div>
 				</div>
 
-				<div class="col-md-6 col-lg-4">
-					<div class="card">
-						<img src="images/assets/assainissement.jpg" class="card-img-top" alt="assainissement">
-						<div class="card-body">
-							<h3 class="card-title">Assainissement</h3>
-							<p class="card-text">Nous réalisons tout d'assainissement, blablabla blabla blabla blabla blabla blabla blabla blabla blabla</p>
-							<p class="card-text"><small class="text-muted"><a class="color-logo" href="/assainissements.php">En savoir plus</a></small></p>
-						</div>
-					</div>
-				</div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="card">
+                        <img src="images/assets/maçonnerie.jpg" class="card-img-top" alt="maçonnerie">
+                        <div class="card-body">
+                            <h3 class="card-title">?</h3>
+                            <p class="card-text">Nous effectuons tout type de maçonnerie, blablabla blabla blabla blabla blabla blabla blabla blabla blabla blabla</p>
+                            <p class="card-text"><small class="text-muted"><a class="color-logo" href="/maconnerie.php">En savoir plus</a></small></p>
+                        </div>
+                    </div>
+                </div>
 			</div>
 		</div>
 <!-- FIN NOS DOMAINES -->

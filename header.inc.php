@@ -71,12 +71,12 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="/terrassement.php">Terrassement</a>
-                    <a class="dropdown-item" href="/voirie.php">Voirie - Réseau</a>
-                    <a class="dropdown-item" href="/maconnerie.php">Maçonnerie</a>
-                    <a class="dropdown-item" href="/acces-prive.php">Accès privés</a>
+                    <a class="dropdown-item" href="/voirie.php">Voirie</a>
+<!--                    <a class="dropdown-item" href="/maconnerie.php">Maçonnerie</a>-->
+<!--                    <a class="dropdown-item" href="/acces-prive.php">Accès privés</a>-->
                     <a class="dropdown-item" href="/revetement-divers.php">Revêtements divers</a>
                     <a class="dropdown-item" href="/espaces-verts.php">Espaces verts</a>
-                    <a class="dropdown-item" href="/piscine.php">Piscines</a>
+                    <a class="dropdown-item" href="/piscine.php">Réseau</a>
                     <a class="dropdown-item" href="/puits.php">Puits</a>
                     <a class="dropdown-item" href="/fosses-sceptiques.php">Fosses sceptiques</a>
                     <a class="dropdown-item" href="/assainissements.php">Assainissements</a>
