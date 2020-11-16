@@ -8,12 +8,12 @@
                 <div class="col-6 col-md-3">
                     <h3>Nos Domaines</h3>
                     <p><a href="/terrassement.php" class="color-text">Terrassement</a><br>
-                        <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
-                        <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
-                        <a href="/acces-prive.php" class="color-text">Accès privé</a><br>
+                        <a href="/voirie.php" class="color-text">Voiries</a><br>
+<!--                        <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>-->
+<!--                        <a href="/acces-prive.php" class="color-text">Accès privé</a><br>-->
                         <a href="/revetement-divers.php" class="color-text">Revêtement divers</a><br>
                         <a href="espaces-verts.php" class="color-text">Espaces Verts<br>
-                        <a href="/piscine.php" class="color-text">Piscines</a><br>
+                        <a href="/piscine.php" class="color-text">Réseau</a><br>
                         <a href="/puits.php" class="color-text">Puits</a><br>
                         <a href="/fosses-sceptiques.php" class="color-text">Fosses sceptiques</a><br>
                         <a href="/assainissements.php" class="color-text">Assainissements</a><br>
@@ -58,12 +58,12 @@
                 <div class="col-md-3">
                     <h3>Nos Domaines</h3>
                     <p><a href="/terrassement.php" class="color-text">Terrassement</a><br>
-                        <a href="/voirie.php" class="color-text">Voiries-Réseau</a><br>
-                        <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>
-                        <a href="/acces-prive.php" class="color-text">Accès privé</a><br>
+                        <a href="/voirie.php" class="color-text">Voiries</a><br>
+<!--                        <a href="/maconnerie.php" class="color-text">Maçonnerie</a><br>-->
+<!--                        <a href="/acces-prive.php" class="color-text">Accès privé</a><br>-->
                         <a href="/revetement-divers.php" class="color-text">Revêtement divers</a><br>
                         <a href="espaces-verts.php" class="color-text">Espaces Verts<br>
-                        <a href="/piscine.php" class="color-text">Piscines</a><br>
+                        <a href="/piscine.php" class="color-text">Réseau</a><br>
                         <a href="/puits.php" class="color-text">Puits</a><br>
                         <a href="/fosses-sceptiques.php" class="color-text">Fosses sceptiques</a><br>
                         <a href="/assainissements.php" class="color-text">Assainissements</a><br>
