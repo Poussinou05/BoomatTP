@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8ef56c2-fcd3-4b7f-8ecd-bf632460bf93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/assets/voirie-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/assets/voirie-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/assets/voirie-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/assets/voirie-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/assets/voirie-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/assets/voirie-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Boumat-TP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Boumat-TP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.inc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.inc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/assets/maçonnerie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/assets/terrassement-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/assets/terrassement-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/assets/terrassement-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/assets/terrassement-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/assets/terrassement-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/assets/terrassement-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/assets/terrassement-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/assets/voirie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/assets/voirie.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/voirie.php" beforeDir="false" afterPath="$PROJECT_DIR$/voirie.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,13 +80,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.inc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="628">
               <caret line="76" column="65" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/assets/voirie-0.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -352,16 +339,17 @@
       <workItem from="1590647095064" duration="170000" />
       <workItem from="1594900553088" duration="181000" />
       <workItem from="1594971871247" duration="9000" />
+      <workItem from="1605517062050" duration="646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112772000" />
+    <option name="totallyTimeSpent" value="113418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15974441" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16134185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -374,7 +362,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49893504" visible="true" weight="0.33732718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49893504" visible="true" weight="0.33732718" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50106496" side_tool="true" weight="0.53364056" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -426,7 +414,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/default/default.css" />
     <entry file="file://$PROJECT_DIR$/images/dot_hr.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -477,13 +464,7 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/assets/maçonnerie.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/assets/terrassement-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/assets/terrassement.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/assets/terrassement-2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assainissements.php">
@@ -615,12 +596,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/assets/terrassement-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/assets/terrassement-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/header.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="628">
           <caret line="76" column="65" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/assets/voirie-0.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
